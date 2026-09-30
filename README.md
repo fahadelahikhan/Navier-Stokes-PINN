@@ -1,4 +1,4 @@
-# Project 5: PINNs for 2D incompressible Navier-Stokes
+PINNs for 2D incompressible Navier-Stokes
 
 Pure PyTorch physics-informed neural network (PINN) that predicts velocity (u, v) and pressure (p) from the steady 2D Navier-Stokes equations. Two cases:
 
